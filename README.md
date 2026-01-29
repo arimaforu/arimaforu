@@ -11,8 +11,11 @@ I’m a developer explorer diving into the world of code, from modern Python aut
 * **Laptop:** `MacBook Air M2` (For coding on the go & Python study)
 * **Desktop:** `Intel i5-12400F | RTX 4060 | 32GB RAM` (For heavy lifting and HolyC VMs)
 
-### 📊 GitHub Stats
-![arimaforu's Stats](https://github-readme-stats.vercel.app/api?username=arimaforu&show_icons=true&theme=radical)
+### 📊 GitHub Activity
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaforu&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arimaforu&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
