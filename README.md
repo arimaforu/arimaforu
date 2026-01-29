@@ -11,17 +11,11 @@ I’m a developer explorer diving into the world of code, from modern Python aut
 * **Laptop:** `MacBook Air M2` (For coding on the go & Python study)
 * **Desktop:** `Intel i5-12400F | RTX 4060 | 32GB RAM` (For heavy lifting and HolyC VMs)
 
-### 📊 GitHub Activity
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arimaforu&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arimaforu&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🔗 Connect with me
 [<img src="https://img.shields.io/badge/Website-arimadev.ru-blue?style=for-the-badge&logo=google-chrome&logoColor=white">](https://arimadev.ru)
-[<img src="https://img.shields.io/badge/Discord-arimaforu-5865F2?style=for-the-badge&logo=discord&logoColor=white">](#)
+[<img src="https://img.shields.io/badge/Discord-remadedays-5865F2?style=for-the-badge&logo=discord&logoColor=white">](#)
 
 > *"A 640x480 world is enough for a mind that can see the infinite."*
 <!--
