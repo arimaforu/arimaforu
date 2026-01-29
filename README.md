@@ -12,7 +12,7 @@ I’m a developer explorer diving into the world of code, from modern Python aut
 * **Desktop:** `Intel i5-12400F | RTX 4060 | 32GB RAM` (For heavy lifting and HolyC VMs)
 
 ### 📊 GitHub Stats
-![arimaforu's Stats](https://github-readme-stats.vercel.app/api?username=arimaforu&show_icons=true&theme=tokyonight&hide_border=true)
+![arimaforu's Stats](https://github-readme-stats.vercel.app/api?username=arimaforu&show_icons=true&theme=radical)
 
 ---
 
